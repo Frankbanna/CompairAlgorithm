@@ -1,0 +1,27 @@
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\bin\Debug\Visualization.exe.config
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\bin\Debug\Visualization.exe
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\bin\Debug\Visualization.pdb
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\CompareAlgo.csproj.AssemblyReference.cache
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\CompareAlgo.resources
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\CompareAlgo.csproj.GenerateResource.cache
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\CompareAlgo.csproj.CoreCompileInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\Visualization.exe
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\Visualization.pdb
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\bin\Debug\Visualization.exe.config
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\bin\Debug\Visualization.exe
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\bin\Debug\Visualization.pdb
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\obj\Debug\CompareAlgo.csproj.AssemblyReference.cache
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\obj\Debug\CompareAlgo.resources
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\obj\Debug\CompareAlgo.csproj.GenerateResource.cache
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\obj\Debug\CompareAlgo.csproj.CoreCompileInputs.cache
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\obj\Debug\Visualization.exe
+F:\My Drive\PC Syncs\Programming\C#\WK01\Visualization\obj\Debug\Visualization.pdb
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\bin\Debug\Visualization.exe.config
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\bin\Debug\Visualization.exe
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\bin\Debug\Visualization.pdb
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\obj\Debug\CompareAlgo.csproj.AssemblyReference.cache
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\obj\Debug\CompareAlgo.resources
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\obj\Debug\CompareAlgo.csproj.GenerateResource.cache
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\obj\Debug\CompareAlgo.csproj.CoreCompileInputs.cache
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\obj\Debug\Visualization.exe
+F:\My Drive\PC Syncs\Programming\C#\AlgoComparison\Visualization\obj\Debug\Visualization.pdb

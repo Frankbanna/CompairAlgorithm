@@ -1,0 +1,9 @@
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\bin\Debug\Visualization.exe.config
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\bin\Debug\Visualization.exe
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\bin\Debug\Visualization.pdb
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\Visualization.csproj.AssemblyReference.cache
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\Visualization.csproj.CoreCompileInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\Visualization.exe
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\Visualization.pdb
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\Visualization.resources
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Visualization\obj\Debug\Visualization.csproj.GenerateResource.cache
